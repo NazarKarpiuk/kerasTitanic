@@ -1,1 +1,1 @@
-# kerasTitanic
+# Kaggle Titanic dataset 
